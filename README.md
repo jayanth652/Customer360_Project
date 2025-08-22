@@ -1,6 +1,6 @@
 # Customer360 – End-to-End Data Analytics & ML Pipeline
 
-🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/views/https://public.tableau.com/app/profile/jayanth.alluri/viz/Customer360AnalyticsDashboard/Dashboard1?publish=yes)
+🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/jayanth.alluri/viz/Customer360AnalyticsDashboard/Dashboard1?publish=yes)
 
 ## 📌 Project Overview
 Customer360 simulates an e-commerce business to demonstrate a **full data pipeline**:
